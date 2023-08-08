@@ -77,3 +77,10 @@ align-items: center;
 .container .form .input_field .btn:hover {
     background: #7e899c;
 }
+h1 {
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    color: #4b4c5e;
+    
+}

@@ -6,14 +6,16 @@
     <title>Complaint Form</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+<form action="" method="get"></form>
 <body>
+    <h1>LINCOLN UNIVERSITY</h1>
     <div class="container">
         <div class="title">
             Complaint Form
         </div>
         <div class="form">
-            <div class="input_field">
-                <label>Full Name</label>
+            <div class="input_field" >
+                <label >Full Name</label required>
                 <input type="text" class="input">
             </div>
             <div class="input_field">
@@ -21,7 +23,7 @@
                 <input type="text" class="input">
             </div>
             <div class="input_field">
-                <label>Email Address</label>
+                <label required>Email Address</label>
                 <input type="text" class="input">
             </div>
             <div class="input_field">
@@ -30,14 +32,14 @@
             </div>
             <div class="input_field">
                 <label>Subject</label>
-                <input type="text" class="input">
+                <input type="text" class="input" required placeholder="Water/bill/light">
+            </div>
+            <div class="input_field" >
+                <label>Complaint</label >
+               <textarea class="textarea"></textarea >
             </div>
             <div class="input_field">
-                <label>Complaint</label>
-               <textarea class="textarea"></textarea>
-            </div>
-            <div class="input_field">
-                <input type="submit" value="Submit" class="btn">
+                <input type="submit" value="Submit" class="btn" >
             </div>
         </div>
     </div>

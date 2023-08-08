@@ -35,6 +35,13 @@ margin-bottom: 15px;
 display: flex;
 align-items: center;
 }
+h1 {
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    color: #4b4c5e;
+    
+}
 
 .container .form .input_field label {
     width: 200px;

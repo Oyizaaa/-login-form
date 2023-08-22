@@ -1,0 +1,101 @@
+1. color - sets the color of text
+2. background-color - sets the background color of an element
+3. font-size - sets the size of the font
+4. font-family - sets the font family
+5. text-align - aligns text
+6. margin - sets the margin around an element
+7. padding - sets the padding inside an element
+8. border - sets the border around an element
+9. border-radius - sets the rounded corners of an element
+10. box-shadow - adds a shadow to an element
+11. display - specifies the display behavior of an element
+12. position - specifies the position of an element
+13. float - sets the float of an element
+14. clear - clears the float of an element
+15. z-index - sets the stack order of an element
+16. opacity - sets the opacity of an element
+17. transition - adds a transition effect to an element
+18. transform - applies a 2D or 3D transformation to an element
+19. flexbox - creates flexible and responsive layouts
+20. grid - creates a grid-based layout
+21. font-style - sets the style of the font
+22. font-weight - sets the weight of the font
+23. font-variant - sets the font variant
+24. text-transform - transforms text to uppercase, lowercase, or capitalize
+25. text-indent - indents the first line of text within an element
+26. text-overflow - specifies how overflowed content should be displayed
+27. text-rendering - sets the quality of text rendering
+28. text-shadow - adds a shadow to text
+29. text-underline-position - sets the position of the underline in text
+30. word-break - specifies how words should break when reaching the end of a line
+31. word-spacing - sets the spacing between words
+32. writing-mode - sets the direction of the text
+33. box-decoration-break - specifies how box-decoration properties are applied to broken elements
+34. box-shadow - adds a shadow to an element
+35. box-sizing - sets how the total width and height of an element is calculated
+36. height - sets the height of an element
+37. width - sets the width of an element
+38. min-height - sets the minimum height of an element
+39. min-width - sets the minimum width of an element
+40. max-height - sets the maximum height of an element
+41. text-decoration - decorates text
+42. line-height - sets the distance between lines of text
+43. word-wrap - wraps long words to prevent overflow
+44. white-space - specifies how white space inside an element is handled
+45. letter-spacing - sets the spacing between characters
+46. text-shadow - adds a shadow to text
+47. box-sizing - sets how the total width and height of an element is calculated
+48. overflow - specifies what happens if content overflows an element's box
+49. cursor - specifies the type of cursor to be displayed
+50. background-image - sets the background image of an element
+51. background-size - sets the size of the background image
+52. background-position - sets the position of the background image
+53. background-repeat - sets how the background image is repeated
+54. opacity - sets the opacity of an element
+55. filter - applies visual effects to an element
+56. clip-path - clips an element to a specified shape
+57. perspective - sets the perspective view for 3D transformations
+58. transform-style - sets how child elements are positioned in 3D space
+59. backface-visibility - specifies whether or not the back face of an element should be visible
+60. user-select - specifies whether or not the user can select text
+
+61. Letter-spacing- Sets the space between characters in text
+62. column-count- Divides an element into the specified number of columns
+63. column-fill-Specifies how divided columns are filled.
+64. column-gap- Specifies the space between divided columns.
+65. column-rule- Sets the style, width, and color of a column divider.
+66. column-span-Sets number of divided columns an element should span.
+67. content- Used to insert content before or after an element.
+68. Empty-cell- Specifies whether empty table cell borders will be displayed.
+69. Direction- Specifies the text writing direction of a block-level element.
+70. Flex-shrink- Specifies how a flex item can shrink inside the container.
+71. Grid-area- Sets the size and location of grid items in a grid container.
+72. Grid-auto-columns- Specifies the size of the columns in a grid container
+73. @Keyframes- Defines the CSS style to animate.
+74. @Import- Imports a style sheet inside another style sheet.
+75. Object-fit- Specifies how an image or video fits inside a container.
+76. Object-position-Specifies the image or video position inside a container.
+77. Order-Specifies the order of an item in a flex container.
+78. Hyphens- Specifies hyphenation with wrap opportunities in a line of text.
+79. Margin- Sets the margin (outside spacing) for an element
+80. Margin-buttom-Sets the bottom margin (outside spacing) for an element.
+81. Margin-left- Sets the left margin (outside spacing) for an element.
+82. Margin-right- Sets the right margin (outside spacing) for an element
+83. Margin-top- Sets the top margin (outside spacing) for an element
+84. Max-height-Sets the maximum height for an element.
+85. Max-width- Sets the maximum width for an element.
+86. Min- height- Sets the minimum height for an element.
+87. Min-width-Sets the minimum width for an element.
+88. List-style- Defines the markers (bullet points) for items in a list.
+89. List-style-image-Defines an image markers (bullet points) for items in a list.
+90. List-style-position-Sets the marker (bullet point) positions for items in a list
+91. Page-break-after- Adds a print page-break after an element.
+92. Page-break-before- Adds a print page-break before an element
+93. Page-break-inside- Specifies if print page-break is allowed inside an element
+94. Perspective- Adds perspective to a 3D-positioned element
+95. Transition-delay- Creates a delay before the transition effect starts
+96. Transition-duration- Specifies the time the transition will take
+97. Transition-property- Specifies the CSS property that will transition
+98. Transition-timing-function-Defines the speed curve function of the transition
+99. User-select- Specifies how text can be selected (highlighted)
+100. Vertical-align- Specifies vertical alignment of an element

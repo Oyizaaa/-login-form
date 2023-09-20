@@ -1,0 +1,95 @@
+body{
+    background-color: skyblue;
+}
+.all{
+    height: 580px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 30px 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.pd{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    color: green;
+    border-radius: 5px;
+
+}
+.add{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 15px;
+  color: green;
+  border-radius: 5px;
+
+}
+.fd{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 15px;
+  color: green;
+  border-radius: 5px;
+}
+.id{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 15px;
+    color: green;
+    border-radius: 5px;
+
+
+}
+.ed{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 15px;
+    color: green; 
+     border-radius: 5px;
+    
+}
+.as{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 15px;
+  color: green;
+  border-radius: 5px;
+
+}
+.fc{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 5px;
+
+}
+.cd{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 15px;
+  color: skyblue;
+  border-radius: 5px;
+
+}
+.ld{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.fa fa-angle-up{
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    vertical-align: middle;
+}

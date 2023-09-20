@@ -92,4 +92,6 @@ body{
 }
 img {
     vertical-align: middle;
+    width: 15px;
+    height: 15px;
 }
